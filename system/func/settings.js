@@ -14,10 +14,10 @@ global.setting = {
  }
 
 global.info = {
- nomerbot : '212773771092',
- pairingNumber : '212773771092',
+ nomerbot : '994409631263',
+ pairingNumber : '994409631263',
  figlet: 'Aero', // buat tampilan konsole start
- nomorwa : '212660131536',
+ nomorwa : '994409631263',
  nameown : 'Hardy',
  nomerown : '212660131536',
  packname : 'sticker by ',
